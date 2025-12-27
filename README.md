@@ -17,9 +17,6 @@ A modern, responsive NFT marketplace built with React and Tailwind CSS.
 - Tailwind CSS
 - Lucide React (icons)
 
-## 📦 Installation
-
-\`\`\`bash
 # Clone the repository
 git clone https://github.com/yourusername/nft-marketplace.git
 
@@ -56,18 +53,4 @@ npm run build
 
 ## 🔗 Live Demo
 
-[nft-landingpage-clone]](https://nft-landingpage-clone.netlify.app/)
-
-
-## **🎯 Quick Checklist**
-
-- [ ] Create React app
-- [ ] Install Tailwind CSS
-- [ ] Install Lucide React
-- [ ] Configure Tailwind
-- [ ] Add component code
-- [ ] Test locally
-- [ ] Push to GitHub
-- [ ] Deploy to Vercel/Netlify
-- [ ] Take screenshots
-- [ ] Update README
+https://nft-landingpage-clone.netlify.app/
